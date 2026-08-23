@@ -1,0 +1,21 @@
+<svg width="180" height="49" viewBox="0 0 180 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa" />
+      <stop offset="100%" stop-color="#a78bfa" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Icon: Hexagon with an 'N' inside -->
+  <g transform="translate(4, 5)">
+    <polygon points="17.5,0 34.8,10 34.8,30 17.5,40 0.2,30 0.2,10" fill="none" stroke="url(#brandGrad)" stroke-width="3" stroke-linejoin="round" />
+    <path d="M 11 27 L 11 13 L 24 27 L 24 13" fill="none" stroke="url(#brandGrad)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+  
+  <style>
+    .t1 { font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif; font-weight: 800; font-size: 26px; fill: #ffffff; letter-spacing: -0.5px; }
+    .t2 { font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', sans-serif; font-weight: 400; font-size: 26px; fill: #cbd5e1; letter-spacing: 0px; }
+  </style>
+  <text x="50" y="34" class="t1">Nova</text>
+  <text x="114" y="34" class="t2">Lab</text>
+</svg>
